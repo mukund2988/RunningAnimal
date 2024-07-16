@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://media.istockphoto.com/id/1135220152/photo/asphalt-road-ground-and-green-woods-in-the-countryside-nature-park.jpg?s=612x612&w=0&k=20&c=DPemFmdiNn-OO3BwSmuV9nkuhh3_DYAhUSIp32fzwAE=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#animal {
+  padding: 200px;
+  margin-top: 235px;
+}
